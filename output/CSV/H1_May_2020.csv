@@ -1,0 +1,5 @@
+Location;Longitude;Latitude;Country;Local.update.time;Timezone;Temperature;Temp.feels;Temp.min;Temp.max;Pressure;Humidity;Wind.speed;Wind.direction;Cloudiness;Visibility;Condition;Rain.1h;Snow.1h;Sunrise;Sunset
+
+Tempel;111.45;-6.79;ID;2020-05-20 21:53:12;7.0;26.46;31.99;26.46;26.46;1010;87;0.51;77;48;;hujan rintik-rintik;0.46;;2020-05-20 05:37:15;2020-05-20 17:24:29
+Tempel;111.45;-6.79;ID;2020-05-20 21:53:12;7.0;26.46;31.99;26.46;26.46;1010;87;0.51;77;48;;hujan rintik-rintik;0.46;;2020-05-20 05:37:15;2020-05-20 17:24:29
+Daerah Istimewa Yogyakarta;110.36;-7.78;ID;2020-05-20 22:20:35;7.0;25.19;29.65;25.19;25.19;1010;90;1.46;52;100;;hujan rintik-rintik;0.31;;2020-05-20 05:43:04;2020-05-20 17:27:24
