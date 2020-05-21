@@ -15,27 +15,27 @@ At this time, the output format is only available in CSV format. File is stored 
 
 **Parameter output :**
 
->***Location :***  City identification  
-***Longitude :***  City geo location, longitude
-***Latitude :*** City geo location, longitude
-***Country :*** Country code
-***Local.update.time :***  Local location time when data available
-***Timezone :***  Time zone differencess with GMT
-***Temperature :*** Current temperature*
-***Temp.feels :*** Current temperature feels like*
-***Temp.min :***  Minimum temperature at the moment. This is deviation from current temp that is possible for large cities and megalopolises geographically expanded*
-***Temp.max :*** Maximum temperature at the moment. This is deviation from current temp that is possible for large cities and megalopolises geographically expanded*
-***Pressure :*** Atmospheric pressure (hPa)
-***Humidity :*** Humidity (%)
-***Wind.speed :*** Wind speed (meter/sec)*
-***Wind.direction :*** Wind degrees (meteorological)
-***Cloudiness :*** Cloudiness (%)
-***Visibility :*** Visibility (meter)
-***Condition :*** Weather condition**
-***Rain.1h :*** Precipitation volume for last hour (mm)
-***Snow.1h :*** Snow volume for last hour (mm)
-***Sunrise :*** Sunrise time
-***Sunset :*** Sunrise time
+    Location :  City identification  
+    Longitude :  City geo location, longitude
+    Latitude : City geo location, longitude
+    Country : Country code
+    Local.update.time :  Local location time when data available
+    Timezone :  Time zone differencess with GMT
+    Temperature : Current temperature*
+    Temp.feels : Current temperature feels like*
+    Temp.min :  Minimum temperature at the moment. This is deviation from current temp that is possible for large cities and megalopolises geographically expanded*
+    Temp.max : Maximum temperature at the moment. This is deviation from current temp that is possible for large cities and megalopolises geographically expanded*
+    Pressure : Atmospheric pressure (hPa)
+    Humidity : Humidity (%)
+    Wind.speed : Wind speed (meter/sec)*
+    Wind.direction : Wind degrees (meteorological)
+    Cloudiness : Cloudiness (%)
+    Visibility : Visibility (meter)
+    Condition : Weather condition**
+    Rain.1h : Precipitation volume for last hour (mm)
+    Snow.1h : Snow volume for last hour (mm)
+    Sunrise : Sunrise time
+    Sunset : Sunrise time
 
 
 ### * Units format
