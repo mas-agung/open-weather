@@ -55,5 +55,6 @@ Temperature is available in Fahrenheit, Celsius and Kelvin units.
 You can use  `lang`  parameter to get the output in your language.  
 Translation is applied for the  `Location`  and  `Condition`  fields.
 
-> Please visit to [https://openweathermap.org/current#other](https://openweathermap.org/current#other)
+> Please visit to [https://openweathermap.org/current#other](https://openweathermap.org/current#other) 
+> and [https://openweathermap.org/weather-data](https://openweathermap.org/weather-data)
 > for more detail.
