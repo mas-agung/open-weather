@@ -4,3 +4,6 @@ Weather data collector from Open Weather API using python script. Stored it into
 
 *For more explanation about OpenWeatherMap API :*
 [https://openweathermap.org/current#other](https://openweathermap.org/current#other)
+
+## Running Command
+	'OpenWeatherMap.py config.ini'
