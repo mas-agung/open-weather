@@ -2,7 +2,7 @@
 """
 Created on Tue May 19 22:03:56 2020
 
-@author: DS - AINO
+@author: Agung Purnomo
 """
 
 import csv

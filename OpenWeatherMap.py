@@ -2,7 +2,7 @@
 """
 Created on Sat May 16 14:47:53 2020
 
-@author: DS - AINO
+@author: Agung Purnomo
 """
 
 import requests

@@ -8,7 +8,7 @@ Weather data collector from Open Weather API using python script. Stored it into
 
 
 ## How to Run
-	'OpenWeatherMap.py config.ini'
+	'python OpenWeatherMap.py config.ini'
 
 ## Output Format
 At this time, the output format is only available in CSV format. File is stored in the 'output' folder.
